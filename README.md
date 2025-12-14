@@ -14,7 +14,7 @@ The assignment focuses on advanced, practical SQL usage, including complex filte
 ## Repository Content
 
 * **`AdvancedSQL_HW3_Solution.pdf`**: Full PDF solution containing all executed SQL queries, DDL commands, and the corresponding result sets.
-* **`docs/Assignment_Instructions_3.pdf`**: Original assignment instructions.
+* **`Assignment_Instructions_3.pdf`**: Original assignment instructions.
 
 ***
 *Course: Databases (SQL), Shenkar College, IE&M*
